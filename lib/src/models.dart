@@ -1,6 +1,7 @@
 ///
 /// A class defines a set of possible statuses of a download task
 ///
+@pragma('vm:entry-point')
 class DownloadTaskStatus {
   final int _value;
 
